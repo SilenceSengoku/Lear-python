@@ -1,0 +1,4 @@
+
+nohup python -u test.py > test.log 2>&1 &
+
+即可
